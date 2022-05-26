@@ -30,7 +30,7 @@ After a successful sign in the user will enter the chat room and will be able to
 ### Built With
 
 
-- React
+- ReactJS
 - FireBase
 - MaterialUI
 - CSS
